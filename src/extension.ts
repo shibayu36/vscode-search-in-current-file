@@ -6,7 +6,7 @@ export function activate(context: vscode.ExtensionContext) {
   );
 
   let disposable = vscode.commands.registerCommand(
-    "search-in-current-file.helloWorld",
+    "search-in-current-file.searchInCurrentFile",
     () => {
       vscode.window.showInformationMessage(
         "Hello World from search-in-current-file!"

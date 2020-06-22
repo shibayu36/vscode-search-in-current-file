@@ -10,14 +10,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:search-in-current-file.helloWorld"
+    "onCommand:search-in-current-file.searchInCurrentFile"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "search-in-current-file.helloWorld",
-        "title": "Hello World"
+        "command": "search-in-current-file.searchInCurrentFile",
+        "title": "Search In Current File"
       }
     ]
   },
