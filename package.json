@@ -1,11 +1,17 @@
 {
   "name": "search-in-current-file",
   "displayName": "search-in-current-file",
-  "description": "",
+  "description": "Search only in the current file",
   "version": "0.0.1",
+  "publisher": "shibayu36",
   "engines": {
     "vscode": "^1.46.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shibayu36/vscode-search-in-current-file"
+  },
+  "homepage": "https://github.com/shibayu36/vscode-search-in-current-file",
   "categories": [
     "Other"
   ],
