@@ -23,7 +23,7 @@
     "commands": [
       {
         "command": "search-in-current-file.searchInCurrentFile",
-        "title": "Search In Current File"
+        "title": "Search in Current File"
       }
     ]
   },
