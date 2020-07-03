@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "search-in-current-file" extension will be documented in this file.
+## v0.0.2
+- Remove useless console.log https://github.com/shibayu36/vscode-search-in-current-file/pull/1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## v0.0.1
+- First Release
