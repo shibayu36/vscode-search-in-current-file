@@ -2,7 +2,7 @@
   "name": "search-in-current-file",
   "displayName": "Search in Current File",
   "description": "Search only in the current file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "shibayu36",
   "engines": {
     "vscode": "^1.46.0"
