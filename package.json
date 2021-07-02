@@ -1,29 +1,29 @@
 {
-  "name": "search-in-current-file",
-  "displayName": "Search in Current File",
+  "name": "find-in-current-file",
+  "displayName": "find in Current File",
   "description": "Search only in the current file",
   "version": "0.0.5",
-  "publisher": "shibayu36",
+  "publisher": "peterjpxie",
   "engines": {
     "vscode": "^1.46.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shibayu36/vscode-search-in-current-file"
+    "url": "https://github.com/peterjpxie/vscode-find-in-current-file"
   },
-  "homepage": "https://github.com/shibayu36/vscode-search-in-current-file",
+  "homepage": "https://github.com/peterjpxie/vscode-find-in-current-file",
   "categories": [
     "Other"
   ],
   "activationEvents": [
-    "onCommand:search-in-current-file.searchInCurrentFile"
+    "onCommand:find-in-current-file.searchInCurrentFile"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "search-in-current-file.searchInCurrentFile",
-        "title": "Search in Current File"
+        "command": "find-in-current-file.searchInCurrentFile",
+        "title": "find in Current File"
       }
     ]
   },
