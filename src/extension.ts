@@ -2,7 +2,7 @@ import * as vscode from "vscode";
 
 export function activate(context: vscode.ExtensionContext) {
   let disposable = vscode.commands.registerCommand(
-    "search-in-current-file.searchInCurrentFile",
+    "find-in-current-file.searchInCurrentFile",
     async () => {
       await searchInCurrentFile();
     }

@@ -14,6 +14,6 @@ Search only in current file displayed in the active editor.  Automatically, the 
 {
   "key": "ctrl+alt+f",
   "command": "find-in-current-file.searchInCurrentFile",
-  "when": "editorFocus && findInputFocussed"
+  "when": "editorFocus || editorIsOpen"
 }
 ```
