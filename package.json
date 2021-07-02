@@ -1,6 +1,6 @@
 {
   "name": "find-in-current-file",
-  "displayName": "find in Current File",
+  "displayName": "Find in Current File",
   "description": "Search only in the current file",
   "version": "0.0.5",
   "publisher": "peterjpxie",
@@ -23,7 +23,7 @@
     "commands": [
       {
         "command": "find-in-current-file.searchInCurrentFile",
-        "title": "find in Current File"
+        "title": "Find in Current File"
       }
     ]
   },
