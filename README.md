@@ -17,3 +17,5 @@ Search only in current file displayed in the active editor.  Automatically, the 
   "when": "editorFocus || editorIsOpen"
 }
 ```
+## Contribution
+Mac users are much welcomed to test and raise PR.
