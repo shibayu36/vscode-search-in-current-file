@@ -4,6 +4,10 @@ This is a Visual Studio Code extension that makes it easily to search in current
 
 ![Demo](images/demo.gif)
 
+## Installation
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=shibayu36.search-in-current-file)
+- [Open VSX](https://open-vsx.org/extension/shibayu36/search-in-current-file)
+
 ## Commands
 ### Search in Current File
 Search only in current file displayed in the active editor.  Automatically, the currently selected text is filled into the search query, and the current file is filled into "files to include" in the Search Panel.
